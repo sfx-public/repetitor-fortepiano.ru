@@ -3963,3 +3963,7 @@ a.addtoany_share img {border: 0;width: auto;height: auto;}
 .et_top_search {
     display: none;
 }
+
+#comment-wrap {
+    display: none;
+}
