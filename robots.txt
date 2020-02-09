@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin
+Host: xn----8sbnabqc5bebecgffc2abf1b.xn--p1ai
+Sitemap: /sitemap_index.xml
+Crawl-delay: 0.1
