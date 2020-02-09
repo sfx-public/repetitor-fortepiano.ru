@@ -3960,7 +3960,7 @@ small {display: inline;margin-left: 5px;}
 a.addtoany_share.addtoany_no_icon span.a2a_img_text {display: none;}
 a.addtoany_share img {border: 0;width: auto;height: auto;}
 
-.et_top_search {
+#et_top_search {
     display: none;
 }
 
