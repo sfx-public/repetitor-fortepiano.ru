@@ -3964,6 +3964,10 @@ a.addtoany_share img {border: 0;width: auto;height: auto;}
     display: none;
 }
 
-#comment-wrap {
+.reply-container {
+    display: none;
+}
+
+.comment-respond {
     display: none;
 }
